@@ -1,0 +1,2 @@
+# Fault-Detection-in-Line-Using-Artificial-Intelligence
+In this project, I used Simulink software in MATLAB. I created an electric circuit and then introduced faults to collect time-series data. After that, I used a neural network (NN) to train the data. I fitted that trained NN data to the electrical circuit, which successfully detected the fault. Finally, I also implemented fault classification.
